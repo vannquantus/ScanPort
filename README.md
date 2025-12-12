@@ -1,4 +1,4 @@
-### PROJETO PORTSCANNER ###
+### PROJETO SCANPORT ###
 
 
 O projeto implementa um simples scanner de portas utilizando Python. O scanner verifica se determinadas portas de um servidor ou host estão abertas ou fechadas. A funcionalidade pode ser utilizada em qualquer host, incluindo servidores locais, sites na web ou endereços IP.
